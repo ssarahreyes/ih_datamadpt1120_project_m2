@@ -37,7 +37,7 @@ In this dashboard we can see..
     ├── notebooks
     │   ├── data_analysis_report.ipynb
     └── data
-
+```
 
 ### :love_letter: Contact info
 Doubts? Advice? Drop me a line! :smirk:
