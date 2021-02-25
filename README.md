@@ -2,7 +2,7 @@
 ### :raising_hand: **Data Analysis and Visualization of a Data Set** 
 In this project we have analyzed a data set with information about diamonds (carat, size, clarity, color...) and make a visualization in Tableau.
 
-![Image](https://unsplash.com/photos/u91R8WPaKQU)
+![Image](https://www.pexels.com/es-es/foto/lujo-redondo-piedra-joyeria-5362404/)
 
 ### :baby: **Status**
 Ironhack Data Analytics Proyect Module 2: Statistics & Data Visualization.
@@ -39,6 +39,6 @@ In this dashboard we can see..
     └── data
 
 
-## :love_letter: Contact info
+### :love_letter: Contact info
 Doubts? Advice? Drop me a line! :smirk:
 
