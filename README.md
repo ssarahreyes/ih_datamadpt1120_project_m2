@@ -23,7 +23,7 @@ After doing the data exploratory process in Jupyter Notebook and making the Tabl
 - As for Clarity, I1 and SI2 have two of the lowest clarity qualities but, as there a lot I and J color diamonds, the price is higher.
 - Also, J and I are the colors with biggest diamonds.
 
-## :grey_question: **Hypothesis Testing**
+## :rocket: **Bonus: Hypothesis Testing**
 The solution of the bonus about Hypothesis testing is in data_analysys_report.ipynb.
 
 Furthermore, using the filters added to the Tableau Dashboard we can check that the results obtained in the data_analysys_report.ipynb are true indeed using the filters added to the dashboard.
@@ -38,7 +38,7 @@ As our t statistic and p value told us, Fair cut + color G mean is a little high
 - pandas==1.1.3
 - seaborn==0.11.0
 - numpy==1.19.2
-- scipy==XXX
+- scipy==1.5.4
 
 
 ### :file_folder: Folder structure
